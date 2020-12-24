@@ -1,3 +1,3 @@
-## My final project for COMM318 _Stories from Data_ (Fall2020)
+## The Use of Lethal Drugs by Age
 
-* You will edit this file to act as the main index page for your project 
+For my final project, I decided investigate: what is the most lethal drug? As I was doing my research and gathering my data, I was interested to see how drug consumption of these lethal drugs affect a person depending on age? This project answers both of these questions separately, and how they interconnect in important ways for society. I formed my data story presentation as an academic report. I found that the drugs that resulted in the most deaths are heroin, fentanyl, alcohol, and cocaine. I also found that alcohol and drug use increase in use until the end of young adulthood, and then decreases as one gets older.
